@@ -55,3 +55,17 @@ import 'package:test_work1/drawer.dart';
               
             }
           }
+
+
+   new Row(
+      children: [
+         new Text (
+            "text 1"
+            ),
+         new Text(
+            "text 2"
+            ),
+         ]
+      )
+
+      
