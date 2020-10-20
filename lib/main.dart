@@ -27,7 +27,9 @@ import 'package:test_work1/drawer.dart';
                 home: Scaffold(
                     appBar: AppBar(
                       
-                      title: Text('Title for presentation',style: TextStyle(
+                      title: Text(
+                         'Title for presentation',
+                           style: TextStyle(
                       color: Colors.white,
                       ),
                       ),
