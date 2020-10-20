@@ -11,7 +11,8 @@ import 'package:test_work1/drawer.dart';
 
      class _MyAppState extends State<MyApp> {
               //LIST OF COLORS
-     List colors = [Colors.red, Colors.green, Colors.yellow, Colors.white,Colors.amberAccent,Colors.brown,Colors.yellow,Colors.transparent,Colors.pink,Colors.purple];
+     List colors = [Colors.red, Colors.green, Colors.yellow, Colors.white,Colors.amberAccent,
+                    Colors.brown,Colors.yellow,Colors.transparent,Colors.pink,Colors.purple];
             //random class
          Random random = new Random();
 
